@@ -4,7 +4,7 @@
 ## Introduction
 This repository contains the implementation of trainable structure tensors (TST), a single-staged contour instance segmentation strategy to detect the extremely cluttered baggage threats regardless of the scanner specifications. 
 
-![TST](/images/Picture1.jpg)
+![TST](image.png)
 
 ## Installation
 To run TST, please download and install Anaconda (also install MATLAB R2020a with deep learning, image processing and computer vision toolboxes). Afterward, please import the ‘environment.yml’ or alternatively install following packages: 
