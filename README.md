@@ -165,7 +165,7 @@ If you use any part of this code in your research, please cite the following pap
 @inproceedings{Salik2025SR,
   title   = {Language Assisted Learnable Hyperdimensional Computing Framework for Retinal Disease Classification},
   author  = {Adnan Yaqoob Salik and Shehzad Khalid and Ramsha Ahmed and Fathi Awad and Umer Hameed Shah and Taimur Hassan},
-  note = {Under Review in Scientific Reports},
-  year = {2025}
+  note = {Scientific Reports},
+  year = {December 2025}
 }
 ```
